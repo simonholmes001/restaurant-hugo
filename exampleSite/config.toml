@@ -1,7 +1,7 @@
 ######################## default configuration ####################
-baseURL = "http://example.org/"
+baseURL = "http://www.daddyhomecooking.com"
 languageCode = "en-us"
-title = "Restaurant Theme By Themefisher"
+title = "Daddy's Home Cooking"
 theme="restaurant-hugo"
 summaryLength = "7"
 paginate = 4
